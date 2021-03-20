@@ -1,0 +1,12 @@
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+E:\Домашние задания\C# базовый\Homework_1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+E:\Домашние задания\C# базовый\Homework_1\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache

@@ -30,7 +30,8 @@ namespace Ex1
             Console.WriteLine(rectangle.AreaCalculator(side1, side2));
             Console.WriteLine(rectangle.PerimeterCalculator(side1, side2));
 
-            
+            //Delay
+            Console.ReadKey();
 
         }
     }

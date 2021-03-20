@@ -21,8 +21,10 @@ namespace Ex2
                 address.Street = "SeeSharpStreet";
                 address.House = "9.0";
                 address.Apartament = "0";
-                Console.WriteLine(address.Index + " " + address.Country + " " + address.City + " " + address.Street + " " + address.House  +" " + address.Apartament);
+                Console.WriteLine(address.Index + " " + address.Country + " " + address.City + " " + address.Street + " " + address.House  +" " + address.Apartament);      
             }
+            //Delay
+            Console.ReadKey();
         }
     }
 }

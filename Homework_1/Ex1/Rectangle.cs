@@ -41,7 +41,7 @@ namespace Ex1
 
         public double PerimeterCalculator(double side1, double side2)
         {
-            double perimetr = side1 + side2;
+            double perimetr = 2*(side1 + side2);
             return perimetr;
         }
 

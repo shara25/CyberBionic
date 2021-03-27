@@ -27,7 +27,7 @@ namespace Ex3
                 if (name == null)
                 {
                     Console.WriteLine("Имя не может быть пустым");
-                    return;
+                    //return;
                 }
                 name = value;
              }
@@ -45,7 +45,7 @@ namespace Ex3
                 if (surname == null)
                 {
                     Console.WriteLine("Фамилия не может быть пустой");
-                    return;
+                    //return;
                 }
                 surname = value;
             }
@@ -63,7 +63,7 @@ namespace Ex3
                 if (position == null)
                 {
                     Console.WriteLine("Должность не может быть пустой");
-                    return;
+                    //return;
                 }
                 position = value;
             }

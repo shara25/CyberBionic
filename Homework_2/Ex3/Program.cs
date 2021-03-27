@@ -13,15 +13,15 @@ namespace Ex3
     {
         static void Main(string[] args)
         {
-            string name = null; string surname = null; 
+            string name = null; string surname = null; string position;
             
             Employee firstEmployee = new Employee(name, surname);
 
             Console.WriteLine("Введите имя сотрудника");
-            firstEmployee.Name = Console.ReadLine();
+            name = Console.ReadLine();
 
             Console.WriteLine("Введите фамилию сотрудника");
-            firstEmployee.Surname = Console.ReadLine();
+            surname = Console.ReadLine();
 
             Console.WriteLine("Введите должность сотрудника");
             firstEmployee.Position = Console.ReadLine();

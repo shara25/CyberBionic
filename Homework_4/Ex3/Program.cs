@@ -14,16 +14,17 @@ namespace Ex3
     {
         static void Main(string[] args)
         {
+
             IPlayable player = new Player();
             player.Play();
             player.Stop();
             player.Pause();
             Console.WriteLine(new string('*',80));
 
-            IRecodable recodable = new Player();
-            recodable.Record();
-            recodable.Pause();
-            recodable.Stop();
+            IRecodable player1 = player as IRecodable;
+            player1.Record();
+            player1.Pause();
+            player1.Stop();
 
         }
     }

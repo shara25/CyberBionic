@@ -11,3 +11,16 @@ E:\Домашние задания\C# базовый\Homework_3\Ex3\obj\Debug\ne
 E:\Домашние задания\C# базовый\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
 E:\Домашние задания\C# базовый\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
 E:\Домашние задания\C# базовый\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.csprojAssemblyReference.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+C:\Users\Миша\source\repos\CyberBionic\Homework_3\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache

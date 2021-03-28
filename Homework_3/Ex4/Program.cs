@@ -24,7 +24,7 @@ namespace Ex4
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             // 0 - бесплатная версия, 1 - Про версия, 2- Експерт версия
 
             Console.WriteLine("Введите ключ доступа");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj": {}
+    "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj": {
+    "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj",
         "projectName": "Ex3",
-        "projectPath": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj",
+        "projectPath": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex3\\Ex3.csproj",
         "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex3\\obj\\",
+        "outputPath": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

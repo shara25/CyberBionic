@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Миша\\Source\\Repos\\CyberBionic\\Homework_1\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\Миша\\source\\repos\\CyberBionic\\Homework_1\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

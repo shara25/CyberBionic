@@ -11,3 +11,16 @@ C:\Users\SHARA25\source\repos\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.
 C:\Users\SHARA25\source\repos\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
 C:\Users\SHARA25\source\repos\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
 C:\Users\SHARA25\source\repos\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Миша\source\repos\CyberBionic\Homework_4\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache

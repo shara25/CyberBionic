@@ -32,7 +32,7 @@ namespace Ex1
             this.side2 = side2;
         }
 
-        // Создаем методы
+        // Создаем методы 
         public double AreaCalculator(double side1,double side2)
         {
             double area = side1 * side2;

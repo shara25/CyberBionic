@@ -13,26 +13,26 @@ namespace Ex3
     class Accountant
     {
         public int Hours { get; set; }
-      
+
         public bool AskForBonus(Sotrudniki worker, int hours)
         {
 
             if (worker == Sotrudniki.Boss && Hours >= 10)
             {
-                { return true; }
+                return true;
             }
 
             else if (worker == Sotrudniki.Glavniy && Hours >= 40)
             {
-                { return true; }
+                return true;
             }
             else if (worker == Sotrudniki.Nachalnik && Hours >= 50)
             {
-                { return true; }
+                return true;
             }
             else if (worker == Sotrudniki.Rabotyaga && Hours >= 64)
             {
-                { return true; }
+                return true;
             }
             else return false;
 

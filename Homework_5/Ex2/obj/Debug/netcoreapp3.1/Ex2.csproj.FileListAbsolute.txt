@@ -1,0 +1,13 @@
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.exe
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.deps.json
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.json
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.dev.json
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.dll
+E:\Домашние задания\C# базовый\Homework_5\Ex2\bin\Debug\netcoreapp3.1\Ex2.pdb
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.csprojAssemblyReference.cache
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfoInputs.cache
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfo.cs
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.csproj.CoreCompileInputs.cache
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.dll
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.pdb
+E:\Домашние задания\C# базовый\Homework_5\Ex2\obj\Debug\netcoreapp3.1\Ex2.genruntimeconfig.cache

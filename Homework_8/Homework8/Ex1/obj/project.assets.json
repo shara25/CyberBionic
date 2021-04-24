@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHARA25\\source\\repos\\Homework8\\Homework8\\Ex1\\Ex1.csproj",
+      "projectUniqueName": "C:\\Users\\SHARA25\\Desktop\\CyberBionic\\Homework_8\\Homework8\\Ex1\\Ex1.csproj",
       "projectName": "Ex1",
-      "projectPath": "C:\\Users\\SHARA25\\source\\repos\\Homework8\\Homework8\\Ex1\\Ex1.csproj",
+      "projectPath": "C:\\Users\\SHARA25\\Desktop\\CyberBionic\\Homework_8\\Homework8\\Ex1\\Ex1.csproj",
       "packagesPath": "C:\\Users\\SHARA25\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHARA25\\source\\repos\\Homework8\\Homework8\\Ex1\\obj\\",
+      "outputPath": "C:\\Users\\SHARA25\\Desktop\\CyberBionic\\Homework_8\\Homework8\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

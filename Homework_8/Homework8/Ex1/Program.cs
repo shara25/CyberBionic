@@ -16,7 +16,7 @@ namespace Ex1
             Console.OutputEncoding = Encoding.Unicode;
             DateTime birthday = new DateTime(2021, 10, 15); // день рождения
             DateTime today = new DateTime(2021, 04, 17);
-            Console.WriteLine("Дата рождения Максима " + birthday);
+            Console.WriteLine("День рождения Максима " + birthday);
 
             Console.WriteLine(new string('-', 80));
 
